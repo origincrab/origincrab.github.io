@@ -5,7 +5,7 @@ url: "https://origincrab.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
+  title: "雲海青简台"
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -16,7 +16,7 @@ theme_settings:
      <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://origincrab.github.io/">云海青简台</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -50,8 +50,7 @@ theme_settings:
   portfolio: true
   search: true
   tags: true
-  
-  
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
