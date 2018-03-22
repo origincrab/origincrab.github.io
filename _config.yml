@@ -12,9 +12,10 @@ theme_settings:
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
-  header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+  #two or three lines to describe your site
+  header_text: > 
+     <p>人生不满百，<br> 何有千岁忧。</p>
+  header_text_feature_image: assets/img/pexels/wall_e.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://origincrab.github.io/">云海青简台</a>
 
@@ -27,7 +28,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "CoatiFly"
   google_plus:
   instagram:
   keybase:
