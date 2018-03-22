@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/origincrab.github.io"
-url: "https://origincrab.github.io/"
+baseurl: "/"
+url: "https://origincrab.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
